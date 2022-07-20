@@ -1,0 +1,158 @@
+{
+"user_id": 2656,
+"temp_id": 0,
+"exam_id": 97,
+"try": 4,
+"items":[
+	{
+	"question_id": 1428,
+	"answer_date": "2022-02-20 16:14:36",
+	"user_answer": "b",
+	"right_answer": "c"
+	},
+	{
+	"question_id": 1532,
+	"answer_date": "2022-02-20 16:46:21",
+	"user_answer": "c",
+	"right_answer": "d"
+	},
+	{
+	"question_id": 904,
+	"answer_date": "2022-02-20 16:46:43",
+	"user_answer": "b",
+	"right_answer": "b"
+	},
+	{
+	"question_id": 411,
+	"answer_date": "2022-02-20 16:47:18",
+	"user_answer": "d",
+	"right_answer": "d"
+	},
+	{
+	"question_id": 708,
+	"answer_date": "2022-02-20 16:48:02",
+	"user_answer": "a",
+	"right_answer": "c"
+	},
+	{
+	"question_id": 286,
+	"answer_date": "2022-02-20 16:50:08",
+	"user_answer": "c",
+	"right_answer": "c"
+	},
+	{
+	"question_id": 923,
+	"answer_date": "2022-02-20 16:51:00",
+	"user_answer": "b",
+	"right_answer": "b"
+	},
+	{
+	"question_id": 404,
+	"answer_date": "2022-02-20 16:53:20",
+	"user_answer": "b",
+	"right_answer": "b"
+	},
+	{
+	"question_id": 729,
+	"answer_date": "2022-02-20 16:53:54",
+	"user_answer": "a",
+	"right_answer": "a"
+	},
+	{
+	"question_id": 917,
+	"answer_date": "2022-02-20 16:54:40",
+	"user_answer": "b",
+	"right_answer": "b"
+	},
+	{
+	"question_id": 933,
+	"answer_date": "2022-02-20 16:57:35",
+	"user_answer": "b",
+	"right_answer": "b"
+	},
+	{
+	"question_id": 2475,
+	"answer_date": "2022-02-20 16:57:56",
+	"user_answer": "c,a,e,d",
+	"right_answer": "a,c,d,e"
+	},
+	{
+	"question_id": 1201,
+	"answer_date": "2022-02-20 16:58:22",
+	"user_answer": "a",
+	"right_answer": "a"
+	},
+	{
+	"question_id": 175,
+	"answer_date": "2022-02-20 17:00:11",
+	"user_answer": "d",
+	"right_answer": "d"
+	},
+	{
+	"question_id": 427,
+	"answer_date": "2022-02-20 17:01:13",
+	"user_answer": "d",
+	"right_answer": "d"
+	},
+	{
+	"question_id": 1765,
+	"answer_date": "2022-02-20 17:02:40",
+	"user_answer": "d",
+	"right_answer": "d"
+	},
+	{
+	"question_id": 416,
+	"answer_date": "2022-02-20 18:18:01",
+	"user_answer": "a",
+	"right_answer": "d"
+	},
+	{
+	"question_id": 929,
+	"answer_date": "2022-02-20 18:18:49",
+	"user_answer": "c",
+	"right_answer": "c"
+	},
+	{
+	"question_id": 813,
+	"answer_date": "2022-02-20 18:20:12",
+	"user_answer": "b",
+	"right_answer": "b"
+	},
+	{
+	"question_id": 568,
+	"answer_date": "2022-02-20 18:21:45",
+	"user_answer": "c",
+	"right_answer": "b"
+	},
+	{
+	"question_id": 899,
+	"answer_date": "2022-02-20 18:23:48",
+	"user_answer": "c",
+	"right_answer": "c"
+	},
+	{
+	"question_id": 922,
+	"answer_date": "2022-02-20 18:24:24",
+	"user_answer": "c",
+	"right_answer": "c"
+	},
+	{
+	"question_id": 1523,
+	"answer_date": "2022-02-20 18:24:39",
+	"user_answer": "d",
+	"right_answer": "d"
+	},
+	{
+	"question_id": 288,
+	"answer_date": "2022-02-20 18:25:08",
+	"user_answer": "b",
+	"right_answer": "b"
+	},
+	{
+	"question_id": 946,
+	"answer_date": "2022-02-20 18:25:51",
+	"user_answer": "c",
+	"right_answer": "c"
+	}
+	]
+}
